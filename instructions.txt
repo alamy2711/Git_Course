@@ -1,1 +1,10 @@
-Steps to be followed
+Steps to be followed:
+
+Step I
+Clone Repo: `git clone <repo's link>`
+Add file to Staging Area: `git add <file name>`
+Add files to Local Repo: `git commit -m "<message>"`
+Push files to Remote Repo: `git push <remote> <branch>`
+
+Step II
+Pull files to Working Directory: `git pull <remote>`
