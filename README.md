@@ -5,3 +5,4 @@ Git &amp; Github learning course
 `git add file_name` to add files to the staging area
 
 ## Colabs
+Modified user name/email
